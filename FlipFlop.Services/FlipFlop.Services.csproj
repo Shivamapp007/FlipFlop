@@ -11,4 +11,8 @@
     <Folder Include="ServiceInterface\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FlipFlop.Repository\FlipFlop.Repository.csproj" />
+  </ItemGroup>
+
 </Project>

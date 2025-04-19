@@ -11,4 +11,9 @@
     <Folder Include="Implementaions\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FlipFlop.DbFactory\FlipFlop.DbFactory.csproj" />
+    <ProjectReference Include="..\FlipFlop.Models\FlipFlop.Models.csproj" />
+  </ItemGroup>
+
 </Project>
